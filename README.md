@@ -19,9 +19,9 @@
 
 | 프로젝트 | 설명 | 기술 스택 |
 |---|---|---|
-| 🏥 [AIDOC_Project](https://github.com/Jaewonkim1009/AIDOC_Project) | Flutter + FastAPI 기반, 외국인 대상 의료기관 안내 및 AI 챗봇 앱 | Flutter, FastAPI, PostgreSQL, AWS RDS, S3, OAuth2, Naver Map API, 공공데이터 API |
+| 🏥 [AIDOC_Project](https://github.com/Jaewonkim1009/AIDOC_Project) | Flutter + FastAPI 기반, 외국인 대상 의료기관 안내 및 AI 챗봇 앱 | Flutter, FastAPI, PostgreSQL, AWS RDS, OAuth2, Naver Map API, 공공데이터 API |
 | 🤰  [Pregnancy_risk_project](https://github.com/Jaewonkim1009/Pregnancy_risk_project) | Streamlit을 활용한 산모 건강 위험도 분석 대시보드 | Pandas, Scikit-learn, Streamlit, Matplotlib, Seaborn |
-| 🔐 [loginweb_AWS](https://github.com/Jaewonkim1009/loginweb_AWS) | SpringBoot + AWS 기반 로그인 웹 애플리케이션 배포 프로젝트 | SpringBoot, EC2, RDS(MySQL), S3, CI/CD |
+| 🔐 [loginweb_AWS](https://github.com/Jaewonkim1009/loginweb_AWS) | AWS 기반 로그인 웹 애플리케이션 배포 프로젝트 | AWS EC2, RDS(MySQL), CI/CD |
 
 ---
 
