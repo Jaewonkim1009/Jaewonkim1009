@@ -12,7 +12,7 @@
 ## 📬 Contact
 
 - 📧 Email: clays1563@gmail.com
-- 📝 Notion: [Notion 포트폴리오 링크](https://truthful-ethernet-936.notion.site/2012f39e812080f3bb25efe3a5871f5c?source=copy_link)
+- 📝 Notion: [Notion 포트폴리오 바로가기](https://truthful-ethernet-936.notion.site/2012f39e812080f3bb25efe3a5871f5c?source=copy_link)
 
 
 ## 💡 주요 프로젝트 (Projects)
