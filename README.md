@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=Jaewon%20Kim's%20Github)
 
 <!-- 소개 -->
-<h2 align="center">안녕하세요, 백엔드 개발자 김재원입니다.</h2>
+<h2 align="center">안녕하세요 방문해주셔서 감사합니다.</h2>
 <p align="center">
 <strong>사용자 중심의 백엔드 설계와 FastAPI, Flutter, AWS, DevOps를 기반으로 한 앱을 만들고 싶습니다</strong><br>
 </p>
@@ -12,7 +12,6 @@
 ## 📬 Contact
 
 - 📧 Email: clays1563@gmail.com
-- 📝 Notion: [Notion 포트폴리오 바로가기](https://truthful-ethernet-936.notion.site/2012f39e812080f3bb25efe3a5871f5c?source=copy_link)
 
 
 ## 💡 주요 프로젝트 (Projects)
